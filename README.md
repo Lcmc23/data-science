@@ -109,7 +109,7 @@ For this, let's create a web automation:
   
 ---
 
-## 🗂 How to download the project
+## How to download the project
 
 ```bash
 
