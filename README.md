@@ -7,11 +7,11 @@
 
 - [About](#About)
 - [Technologies used](#Technologies-used)
-- [Project 1](#Project-1)
-- [Project 2](#Project-2)
-- [Project 3](#Project-3)
-- [Project 4](#Project-4)
-- [How to download the project](#-How-to-download-the-project)
+- [Project 1](#Project-1-Automation-of-Systems-and-Processes-with-Python)
+- [Project 2](#Project-2-Data-Analysis-with-Python)
+- [Project 3](#Project-3-Sales-forecast)
+- [Project 4](#Project-4-Web-Automation-and-Information-Search-with-Python)
+- [How to download the project](#How-to-download-the-project)
 
 ## About
 
@@ -30,7 +30,7 @@ The project was developed using the following technologies
  
 ---
 
-## Project 1 - Automation of Systems and Processes with Python
+## Project 1 Automation of Systems and Processes with Python
 
 ### Challenge:
 
@@ -49,7 +49,7 @@ To solve this, let's use pyautogui, a keyboard and mouse command automation libr
   
 ---
 
-## Project 2 - Data Analysis with Python
+## Project 2 Data Analysis with Python
 
 ### Challenge:
 
@@ -71,7 +71,7 @@ Original Kaggle Link: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
 ---
 
-## Project 3 - Sales forecast
+## Project 3 Sales forecast
 
 Our challenge is to be able to predict the sales we will have in a given period based on spending on ads in the three major networks that the company invests: TV, Newspaper and Radio
  
@@ -82,7 +82,7 @@ Our challenge is to be able to predict the sales we will have in a given period 
   
 ---
 
-## Project 4 - Web Automation and Information Search with Python
+## Project 4 Web Automation and Information Search with Python
 
 #### Challenge:
 
