@@ -5,12 +5,12 @@
 
 # Index
 
-- [About](#-About)
+- [About](#About)
 - [Technologies used](#Technologies-used)
-- [Project 1](#-Project-1)
-- [Project 2](#-Project-2)
-- [Project 3](#-Project-3)
-- [Project 4](#-Project-4)
+- [Project 1](#Project-1)
+- [Project 2](#Project-2)
+- [Project 3](#Project-3)
+- [Project 4](#Project-4)
 - [How to download the project](#-How-to-download-the-project)
 
 ## About
