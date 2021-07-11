@@ -38,7 +38,6 @@ Every day, our system updates sales from the previous day.
 Your daily job, as an analyst, is to send an email to the board, as soon as you start work, with the billing and quantity of products sold the day before
 
 Board e-mail: seugmail+diretoria@gmail.com <br>
-Location where the system provides the sales of the previous day: https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing
 
 To solve this, let's use pyautogui, a keyboard and mouse command automation library
 
@@ -61,7 +60,6 @@ This represents a loss of millions for the company.
 
 What does the company need to do to resolve this?
 
-Database: https://drive.google.com/drive/folders/1T7D0BlWkNuy_MDpUHuBG44kT80EmRYIs?usp=sharing <br>
 Original Kaggle Link: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
   
 <h1>
@@ -92,8 +90,6 @@ We work at an importer and the price of our products is linked to the quotation 
 - Gold
 
 We need to automatically get the quotation for these 3 items on the internet and find out how much we should charge for our products, considering a contribution margin that we have in our database.
-
-Database: https://drive.google.com/drive/folders/1o2lpxoi9heyQV1hIlsHXWSfDkBPtze-V?usp=sharing
 
 For this, let's create a web automation:
 
