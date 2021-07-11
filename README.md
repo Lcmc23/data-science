@@ -21,7 +21,7 @@ This is an interdisciplinary area dedicated to the study and analysis of structu
 
 ## Technologies used
 
-The project was developed using the following technologies
+The projects were developed using the following technologies
 
 <h1>
     <h1 align="center">
